@@ -1,0 +1,16 @@
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\AzureKeyVaultExample.exe
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\appsettings.Development.json
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\appsettings.json
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\AzureKeyVaultExample.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\AzureKeyVaultExample.deps.json
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\AzureKeyVaultExample.runtimeconfig.json
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\AzureKeyVaultExample.pdb
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Azure.KeyVault.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\user\AppData\Local\Temp\rider-publish11833320646303983104\Newtonsoft.Json.dll
