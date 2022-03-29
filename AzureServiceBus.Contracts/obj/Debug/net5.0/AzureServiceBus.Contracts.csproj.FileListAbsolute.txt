@@ -1,0 +1,12 @@
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\bin\Debug\net5.0\AzureServiceBus.Contracts.deps.json
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\bin\Debug\net5.0\AzureServiceBus.Contracts.dll
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\bin\Debug\net5.0\ref\AzureServiceBus.Contracts.dll
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\bin\Debug\net5.0\AzureServiceBus.Contracts.pdb
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.csproj.AssemblyReference.cache
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.AssemblyInfoInputs.cache
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.AssemblyInfo.cs
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.dll
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\ref\AzureServiceBus.Contracts.dll
+C:\Projects\pet\AzureExamples\AzureServiceBus.Contracts\obj\Debug\net5.0\AzureServiceBus.Contracts.pdb
